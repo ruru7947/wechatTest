@@ -1,7 +1,6 @@
 
 <html>
 <head>
-	<script>document.location.href="itms-services://?action=download- manifest&url=https://www.guanwin.mobi/iosapp/lile365.plist";</script>
 </head>
 <body onload="is_weixin()">
 
@@ -15,7 +14,7 @@
                 var pTag = document.getElementById("idd");
                 pTag.innerText = "請點擊右上角開啟瀏覽器下載APP";
      		} else {
-    			window.location.href = 'itms-services://?action=download- manifest&url=https://www.guanwin.mobi/iosapp/lile365.plist';
+    			window.location.href = "itms-services://?action=download- manifest&url=https://www.guanwin.mobi/iosapp/lile365.plist";
     		}
 		}
 
