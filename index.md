@@ -15,7 +15,7 @@
                 var pTag = document.getElementById("idd");
                 pTag.innerText = "請點擊右上角開啟瀏覽器下載APP";
      		} else {
-    			window.location = 'itms-services://?action=download-manifest&url=https://www.guanwin.mobi/iosapp/lile365.plist';
+    			window.location = 'http://android6869.gwinplay.com/jin188_3.apk';
     		}
 		}
 
