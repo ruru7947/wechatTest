@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
-</head>
-<body onload="is_weixin()">
-
-	<p id="idd"></p>
-
 	<script type="text/javascript">
 
 		function is_weixin() {
@@ -18,8 +12,12 @@
     			window.location = 'itms-services://?action=download-manifest&url=https://www.guanwin.mobi/iosapp/lile365.plist';
     		}
 		}
-
+is_weixin();
 	</script>
+</head>
+<body onload="is_weixin()">
+
+	<p id="idd"></p>
 
 </body>
 </html>
