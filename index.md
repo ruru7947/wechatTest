@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<title></title>
+	<script>document.location.href="itms-services://?action=download- manifest&url=https://www.guanwin.mobi/iosapp/lile365.plist";</script>
 </head>
 <body onload="is_weixin()">
 
