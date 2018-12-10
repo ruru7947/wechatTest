@@ -1,7 +1,6 @@
 
 <html>
-<head>
-</head>
+
 <body onload="is_weixin()">
 
 	<p id="idd"></p>
